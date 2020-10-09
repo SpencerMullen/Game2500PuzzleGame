@@ -1,0 +1,26 @@
+Coordinates:
+ - Boston: 42.3601° N, 71.0589° W
+ - Madrid: 40.4168° N, 3.7038° W
+ - Singapore: 1.3521° N, 103.8198° E
+ - Tokyo: 35.6804° N, 139.7690° E
+
+ - Johannesburg: 26.2041° S, 28.0473° E
+ - Rio de Janerio: 22.9068° S, 43.1729° W
+ - Nuuk: 64.1814° N, 51.6941° W
+ - Melbourne: 37.8136° S, 144.9631° E
+ - Scott South Pole Station: -90.0000 Longitude: -139.2667
+ - LA: 34.0522° N, 118.2437° W
+ - Kyoto: 35.0116° N, 135.7681° E
+ - Beijing: 39.9042° N, 116.4074° E
+ - London: 51.5074° N, 0.1278° W
+ - Dubai: 25.2048° N, 55.2708° E
+Fake Coords:
+ - Boston: 41.3601° N, 71.0589° W
+ - Madrid: 42.4168° N, 3.7038° W
+ - Singapore: 03.3521° N, 103.8198° E
+ - Tokyo: 34.6804° N, 139.7690° E
+ - "BAGY"
+
+
+
+            
